@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3b457b7231f55f44a59089f0a06026c, type: 3}
+  m_Name: USB
+  m_EditorClassIdentifier: 
+  ID: 19
+  CardName: USB
+  CardDescription: 'You attach every USB (personal or not) to your system without
+    scanning it
+
+'
+  CorrectAttack: {fileID: 11400000, guid: b5006206e85513944956534137af366f, type: 2}
+  CorrectDefense: {fileID: 11400000, guid: 585977a7a7f120c4badb59279b1bef2d, type: 2}
+  CardPrefab: {fileID: 467682428928598952, guid: 2e30285a0542b664bac59cc3a4ae3cfc,
+    type: 3}
+  AttackHint: You may have to pay the price for freedom
+  DefenseHint: Clear security check before boarding the plane

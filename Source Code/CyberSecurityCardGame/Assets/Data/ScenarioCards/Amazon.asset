@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3b457b7231f55f44a59089f0a06026c, type: 3}
+  m_Name: Amazon
+  m_EditorClassIdentifier: 
+  ID: 2
+  CardName: Amazon
+  CardDescription: "You receive an SMS from \u201CAmazon\u201D saying that you\u2019ve
+    won a voucher worth rs. 10000 and you are asked to click on the link to redeem
+    the voucher"
+  CorrectAttack: {fileID: 11400000, guid: bd6b2c3d321b29e4d8bd7aeea850268a, type: 2}
+  CorrectDefense: {fileID: 11400000, guid: 21cce11f0c1ef5f40a531ae31203ac7c, type: 2}
+  CardPrefab: {fileID: 467682428928598952, guid: 2e30285a0542b664bac59cc3a4ae3cfc,
+    type: 3}
+  AttackHint: "You cannot be sure that the source, for example, \u2018JK-AMZN\u2019,
+    is legitimate"
+  DefenseHint: Would you click on a link or enter personal info in any unauthorized
+    link?

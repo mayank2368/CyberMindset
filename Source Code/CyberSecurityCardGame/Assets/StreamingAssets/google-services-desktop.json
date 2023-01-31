@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "329159289075",
+    "project_id": "cybersecuritycardgame-65a55",
+    "storage_bucket": "cybersecuritycardgame-65a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329159289075:android:d1db1e0e18788b56162f86",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.CyberSecurityCardGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329159289075-5uq1naluapqais9mc5koluc05cuc0vic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.CyberSecurityCardGame",
+            "certificate_hash": "65b83fe36eaade3fcbf436b461ff35f5ad11595e"
+          }
+        },
+        {
+          "client_id": "329159289075-hrcqnpkhdsrirrbn81mvlr3jk9qlnii0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgWtpdshJbnKBRWcnAIl-QCxrtCYTvPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329159289075-hrcqnpkhdsrirrbn81mvlr3jk9qlnii0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

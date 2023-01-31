@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3b457b7231f55f44a59089f0a06026c, type: 3}
+  m_Name: Unscanned
+  m_EditorClassIdentifier: 
+  ID: 18
+  CardName: Unscanned
+  CardDescription: 'Your downloaded softwares do not undergo virus scan
+
+'
+  CorrectAttack: {fileID: 11400000, guid: 6bd07fac1414f864a8f2a617d6fa3874, type: 2}
+  CorrectDefense: {fileID: 11400000, guid: 25a981dc5dc5e194eb0752ad780ef2ab, type: 2}
+  CardPrefab: {fileID: 467682428928598952, guid: 2e30285a0542b664bac59cc3a4ae3cfc,
+    type: 3}
+  AttackHint: You never know whether the software is completely safe or not
+  DefenseHint: "How can you prevent this \u201Cviral\u201D software from harming
+    your system"

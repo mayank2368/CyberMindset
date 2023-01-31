@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f184a529efe9647aa2be8ef3a8c58d, type: 3}
+  m_Name: Eavesdropping attack
+  m_EditorClassIdentifier: 
+  ID: 5
+  CardName: Eavesdropping attack
+  CardDescription: attacks occur through the interception of network traffic. A hacker
+    detects the information by listening to the message transmission in the network.
+  CardPrefab: {fileID: 2373256675944760968, guid: b12cd466c3d8b5c42ac409309bada77d,
+    type: 3}
+  correctDefense: {fileID: 11400000, guid: 813141dc3da300943b2fc2bc87e937e9, type: 2}

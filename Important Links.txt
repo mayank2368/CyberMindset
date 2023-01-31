@@ -1,0 +1,31 @@
+online editable google documentation
+https://docs.google.com/document/d/1cit537aPhGJxd86ITcMXZp40EIDTuzU7p6DhutA9kh4/edit?usp=sharing
+
+Final Build (source code + apk + windows build + keystore + documentation)
+https://drive.google.com/file/d/1AnbkcZCzFSDM8WyQ6hkPveXj-WB78Kli/view?usp=sharing
+
+Source Code only
+https://drive.google.com/file/d/1xSHbNXWjyh72fbsDiE0GLXLdenFkkMFa/view?usp=sharing
+
+APK
+https://drive.google.com/file/d/1_X1mfnJHSsF40vqMQQYZ5-GOLFL_0KCf/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+keystore CSCG password (i realize this is a cyber security project but im too lazy to remember complex passwords) 
+123456

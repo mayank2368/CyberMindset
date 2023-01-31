@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef58c450069046f45adbfb02a8536fa7, type: 3}
+  m_Name: AllCards
+  m_EditorClassIdentifier: 
+  ScenarioCards:
+  - {fileID: 11400000, guid: 69e6727a14721314ca8e848a02c4d2b2, type: 2}
+  - {fileID: 11400000, guid: 70c5a284219c46d47bca8aa709153e7d, type: 2}
+  - {fileID: 11400000, guid: c15df80e4051a5e4a91f95d240aea696, type: 2}
+  - {fileID: 11400000, guid: 2cd2191e8c6a4be42853f8e7328bb989, type: 2}
+  - {fileID: 11400000, guid: 22ec6b63a6849c245a2a48d7bc11ce98, type: 2}
+  - {fileID: 11400000, guid: bed6152cc86082948bfe23ac77f4098a, type: 2}
+  - {fileID: 11400000, guid: 00c42c95e05fa0847aee7f7ea25dad45, type: 2}
+  - {fileID: 11400000, guid: f073a5fa4dd829540a30aa6247b09df0, type: 2}
+  - {fileID: 11400000, guid: adaab3b782dcd504e9950a38b6ed0e8a, type: 2}
+  - {fileID: 11400000, guid: 68f9979959e14434f8ff77134606c86a, type: 2}
+  - {fileID: 11400000, guid: f7570fb6241b0a94eb475f2c1806105b, type: 2}
+  - {fileID: 11400000, guid: 9aa9eff39bb5ab54ca4cf064ba33e8c1, type: 2}
+  - {fileID: 11400000, guid: 69959ebcf2bf8d54cb4fa3927b8e1489, type: 2}
+  - {fileID: 11400000, guid: 89d92816f0e31dd49aa42df9d32920b5, type: 2}
+  - {fileID: 11400000, guid: 3e6db1246a83b584ca8e4279029650d4, type: 2}
+  - {fileID: 11400000, guid: 6727082795be57940bc67352ce7025f2, type: 2}
+  - {fileID: 11400000, guid: d81f86626c4a3d4418cb7cfebeedc1d1, type: 2}
+  - {fileID: 11400000, guid: 8b930f2ea9751994999a80ffc9b5a14d, type: 2}
+  - {fileID: 11400000, guid: 523efd8dd9499054093dd307426b1fd9, type: 2}
+  - {fileID: 11400000, guid: 0d2bbf17b97e0184bbc7e7690892c4fc, type: 2}
+  AttackCards:
+  - {fileID: 11400000, guid: 63e8f2d96b9b5d949bbe419f977d99f1, type: 2}
+  - {fileID: 11400000, guid: 4b50116b10765fc4c9a55d7634d8f12f, type: 2}
+  - {fileID: 11400000, guid: fc2e39bd35e5d534296416c1a51169b1, type: 2}
+  - {fileID: 11400000, guid: 6bd07fac1414f864a8f2a617d6fa3874, type: 2}
+  - {fileID: 11400000, guid: d4329ccbd94a0e24a82f5f52a14d1066, type: 2}
+  - {fileID: 11400000, guid: 709290cb3ed024f468e25108e347d725, type: 2}
+  - {fileID: 11400000, guid: 5f0d2c49cea445947be41b6591b0dc30, type: 2}
+  - {fileID: 11400000, guid: b5006206e85513944956534137af366f, type: 2}
+  - {fileID: 11400000, guid: bd6b2c3d321b29e4d8bd7aeea850268a, type: 2}
+  - {fileID: 11400000, guid: 2b52dc144d2a110489ec80fa816457a8, type: 2}
+  - {fileID: 11400000, guid: 01acbb612a012c24dab8ed0931ed02ee, type: 2}
+  DefenseCards:
+  - {fileID: 11400000, guid: 083bb24639725924ca25994e2b6786e3, type: 2}
+  - {fileID: 11400000, guid: 25a981dc5dc5e194eb0752ad780ef2ab, type: 2}
+  - {fileID: 11400000, guid: 087d2b1d387c8244ba3291e4c73fb73c, type: 2}
+  - {fileID: 11400000, guid: 261f2b9a96a265041990bec05f8d1f7c, type: 2}
+  - {fileID: 11400000, guid: c1c6916b482960444be72c15ca571b74, type: 2}
+  - {fileID: 11400000, guid: 3cbc9a1160da3c44d972c6bf47e18e21, type: 2}
+  - {fileID: 11400000, guid: beb45d56b9a7eb04fba9cab0cb78d1db, type: 2}
+  - {fileID: 11400000, guid: ef7f2e29fe90f394d9998bccecbf506b, type: 2}
+  - {fileID: 11400000, guid: 585977a7a7f120c4badb59279b1bef2d, type: 2}
+  - {fileID: 11400000, guid: 21cce11f0c1ef5f40a531ae31203ac7c, type: 2}
+  - {fileID: 11400000, guid: 5c4380d2202c5b948bc5e8afe4bbd806, type: 2}
+  - {fileID: 11400000, guid: ed54215dc0d24494f8cda18393db4343, type: 2}
+  - {fileID: 11400000, guid: 26dda096f25211e46bc1ce016a460ab3, type: 2}
+  Level2ScenarioCards:
+  - {fileID: 11400000, guid: 1f0a8a412451dbc47b7c365ce52d9d85, type: 2}
+  - {fileID: 11400000, guid: 9b490b573d3f26a41b7c53b99e1d92be, type: 2}
+  - {fileID: 11400000, guid: 9c38215d0a9b02f4fa039c2360d23ef3, type: 2}
+  WifiAttackCards:
+  - {fileID: 11400000, guid: 02d5887ed9757c349b313d093216e98a, type: 2}
+  - {fileID: 11400000, guid: 4d9a2f34e504f3643878169642686d3d, type: 2}
+  - {fileID: 11400000, guid: be0264a4f8471a6468e7c42376caf85f, type: 2}
+  - {fileID: 11400000, guid: a38e4c2774704594bbcbe30fbd57cb17, type: 2}
+  - {fileID: 11400000, guid: d724c3252b015854ea67c979abffc05d, type: 2}
+  - {fileID: 11400000, guid: 830d73952f5fa5e49a196d3eb0d836d4, type: 2}
+  - {fileID: 11400000, guid: a195c8a43decbfb428b80aee1f3b94c1, type: 2}
+  - {fileID: 11400000, guid: 39de49c824de1d048a5419193524021e, type: 2}
+  - {fileID: 11400000, guid: 4e281be29a0fe6b4aab19ca984d1f3f4, type: 2}
+  - {fileID: 11400000, guid: ad4b529abb7ebaa4692ea5ddc1c7991d, type: 2}
+  WifiDefenseCards:
+  - {fileID: 11400000, guid: 358a01a4cbd837649999db5d5f14836d, type: 2}
+  - {fileID: 11400000, guid: 066fab76ac2516843aa1b5b9ac89991a, type: 2}
+  - {fileID: 11400000, guid: e6d394c0f9f0a3a499db50158e0465a7, type: 2}
+  - {fileID: 11400000, guid: dd4525095ec98a64d9382093b3d7bcb5, type: 2}
+  - {fileID: 11400000, guid: 6ebc54bea07b17646bd0bc4d6839674e, type: 2}
+  - {fileID: 11400000, guid: 67e0b9eb4bc1e4f4bac42947cd7f4adc, type: 2}
+  - {fileID: 11400000, guid: 2a9fdc3a4b67cb247a776d87862494b8, type: 2}
+  - {fileID: 11400000, guid: 2f276750e6333744b8e10bc12c48dffa, type: 2}
+  - {fileID: 11400000, guid: fcbd7d07e0c271641ac310ed1bab2630, type: 2}
+  - {fileID: 11400000, guid: 61e24b2f6791d1e46bdc31b13b5d0ec4, type: 2}
+  PhoneAttackCards:
+  - {fileID: 11400000, guid: a10c1211724f430479648a2d43350def, type: 2}
+  - {fileID: 11400000, guid: 0d30fd402c5693f49b8e838f5b3847a0, type: 2}
+  - {fileID: 11400000, guid: f736f016e7c9d684d97d1bf89005a1c5, type: 2}
+  - {fileID: 11400000, guid: 57184f041bf1868428319e5f67bf418d, type: 2}
+  - {fileID: 11400000, guid: b88eec574d0151d46881ab9894c37f8b, type: 2}
+  - {fileID: 11400000, guid: d4967438d33960246b12a17ae748ee0a, type: 2}
+  - {fileID: 11400000, guid: 02b93b8e504a8d447b063e64ff2e1cdb, type: 2}
+  - {fileID: 11400000, guid: 4788b5dbe04e60349a20556915284a48, type: 2}
+  - {fileID: 11400000, guid: 71753fdfb2fca234a8b47dd5b38180eb, type: 2}
+  - {fileID: 11400000, guid: a8639cf5ef7a05a44b4b2a4f8512e0c9, type: 2}
+  PhoneDefenseCards:
+  - {fileID: 11400000, guid: 1accd90dac7d9aa4aadd64b6a3c7a7ea, type: 2}
+  - {fileID: 11400000, guid: 0203943fd6e71d448978f149da4bab44, type: 2}
+  - {fileID: 11400000, guid: e36ff2c83e494124ebf8f1d7c7dcb106, type: 2}
+  - {fileID: 11400000, guid: b0da8e019d660494a98c1658159c6349, type: 2}
+  - {fileID: 11400000, guid: 0239432b4a9e99641a9fcf60e1b5e21f, type: 2}
+  - {fileID: 11400000, guid: a37db8e7b0140174b9ec89d26bcdfe91, type: 2}
+  - {fileID: 11400000, guid: 461c5930fb426ed459e5cc6c6ae3ecc8, type: 2}
+  - {fileID: 11400000, guid: 56ab57716d22e2e498793e6b13751271, type: 2}
+  - {fileID: 11400000, guid: 17b92819c97d5da48b8bfa8347f7fce5, type: 2}
+  - {fileID: 11400000, guid: c9539720ae5b68e4184f2b3fd5555e6b, type: 2}
+  ComputerAttackCards:
+  - {fileID: 11400000, guid: 25f27561f2c4ab84e8855e3c7a003a09, type: 2}
+  - {fileID: 11400000, guid: 74b1a62dfe7d7514282682dd1547de4b, type: 2}
+  - {fileID: 11400000, guid: 450fe1c2e1e92ae48b9662ccb14fac34, type: 2}
+  - {fileID: 11400000, guid: 5400d2d7de06cab4091755f0479c4f64, type: 2}
+  - {fileID: 11400000, guid: 5e082134cab988a44b510e3cfa80671a, type: 2}
+  - {fileID: 11400000, guid: 5f7bc795f1f277047a435a4650cf6d27, type: 2}
+  - {fileID: 11400000, guid: 7517ae03f14ad014f878b7b7c91c6d52, type: 2}
+  - {fileID: 11400000, guid: 881bc382630d57e44b146e120d67199f, type: 2}
+  - {fileID: 11400000, guid: f2ffe4d668a540742b7de5aaffac7758, type: 2}
+  - {fileID: 11400000, guid: e6343ccbef482cc4e9f08f105756fa6d, type: 2}
+  ComputerDefenseCards:
+  - {fileID: 11400000, guid: df6d26a1b7a148845b9e6e12b1251a45, type: 2}
+  - {fileID: 11400000, guid: c8da9675a00d4e040b54b55e1d80d450, type: 2}
+  - {fileID: 11400000, guid: cb1d64ac0082f5e4b9f0b4928fbfa190, type: 2}
+  - {fileID: 11400000, guid: f356556e6c8ef94438e173237d234bed, type: 2}
+  - {fileID: 11400000, guid: 171f039d0c50ac14bab125134dd14caa, type: 2}
+  - {fileID: 11400000, guid: 9b81842b33289e04288396e66618986e, type: 2}
+  - {fileID: 11400000, guid: 98f15c8744c3e7945979170cac746f69, type: 2}
+  - {fileID: 11400000, guid: 813141dc3da300943b2fc2bc87e937e9, type: 2}
+  - {fileID: 11400000, guid: 644e213f173a58d45af8d8d145c4258e, type: 2}

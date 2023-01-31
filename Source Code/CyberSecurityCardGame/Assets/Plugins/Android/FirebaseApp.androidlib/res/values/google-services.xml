@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">329159289075</string>
+  <string name="google_storage_bucket" translatable="false">cybersecuritycardgame-65a55.appspot.com</string>
+  <string name="project_id" translatable="false">cybersecuritycardgame-65a55</string>
+  <string name="google_api_key" translatable="false">AIzaSyCVgWtpdshJbnKBRWcnAIl-QCxrtCYTvPg</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCVgWtpdshJbnKBRWcnAIl-QCxrtCYTvPg</string>
+  <string name="google_app_id" translatable="false">1:329159289075:android:d1db1e0e18788b56162f86</string>
+  <string name="default_android_client_id" translatable="false">329159289075-5uq1naluapqais9mc5koluc05cuc0vic.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">329159289075-hrcqnpkhdsrirrbn81mvlr3jk9qlnii0.apps.googleusercontent.com</string>
+</resources>
